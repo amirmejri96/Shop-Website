@@ -28,7 +28,7 @@ const Footer = () => {
             </div>
             <div className="footer-copyright">
                 <hr/>
-                <p>© Amir Mejri - All Right Reserved</p>
+                <p>© 2025 Amir Mejri - All Right Reserved</p>
             </div>
 
         </div>
